@@ -75,7 +75,7 @@ Projects
    <a href="https://michaelaltinsik1.github.io/Insurance-Project/our-offers.html">See website here</a>
   </td>
   <td>
-    <a href="https://github.com/Michaelaltinsik1/Insurance-Project">See repo here</a>
+    <a href="https://github.com/idaniths/html-css-slutprojekt">See repo here</a>
   </td>
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
