@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="assets/MICHAEL%20ALTINISIK.png" width="600" heigth="200">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,12 +30,12 @@ Projects
   </td>
  </tr>
  <tr>
-  <td>Calculator</td>
+  <td>Drumkit</td>
   <td>
-   <a href="https://michaelaltinsik1.github.io/Calculator/">See website here</a>
+   <a href="https://idaniths.github.io/Drumkit/">See website here</a>
   </td>
   <td>
-    <a href="https://github.com/Michaelaltinsik1/Calculator">See repo here</a>
+    <a href="https://github.com/idaniths/Drumkit">See repo here</a>
   </td>
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
