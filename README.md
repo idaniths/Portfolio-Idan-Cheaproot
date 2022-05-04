@@ -58,10 +58,10 @@ Projects
  <tr>
   <td>Stars Wars Catalog</td>
   <td>
-   <a href="">See website here</a>
+   <a href="https://idaniths.github.io/star-wars-api/">See website here</a>
   </td>
   <td>
-    <a href="">See repo here</a>
+    <a href="https://github.com/idaniths/star-wars-api">See repo here</a>
   </td>
   <td>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
