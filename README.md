@@ -27,6 +27,19 @@ Projects
   <th>Languages</th>
  </tr>
  <tr>
+  <td>Recipes</td>
+  <td>
+   <a>Under construction</a>
+  </td>
+  <td>
+    <a href="https://github.com/idaniths/recipes">See repo here</a>
+  </td>
+  <td>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Typescript" width="40" height="40"/>
+  </td>
+ </tr>
+ <tr>
   <td>Sinus Skateshop</td>
   <td>
    <a href="https://youtu.be/8iWH-IW0UjU">Youtube link</a>
