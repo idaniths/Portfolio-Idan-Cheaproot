@@ -29,7 +29,7 @@ Projects
  <tr>
   <td>Recipes</td>
   <td>
-   <a>Under construction</a>
+   <a href="https://saftamazalsrecipes.netlify.app/">See website here</a>
   </td>
   <td>
     <a href="https://github.com/idaniths/recipes">See repo here</a>
