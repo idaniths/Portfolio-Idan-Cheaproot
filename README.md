@@ -78,7 +78,7 @@ Projects
   </td>
  </tr>
  <tr>
-  <td>Stars Wars Catalog</td>
+  <td>Star Wars Catalog</td>
   <td>
    <a href="https://idaniths.github.io/star-wars-api/">See website here</a>
   </td>
