@@ -43,12 +43,6 @@ Projects
   </td>
  </tr>
  <tr>
-  <th>Project name</th>
-  <th>Deployed/Youtube Link</th>
-  <th>Repo Link</th>
-  <th>Languages</th>
- </tr>
- <tr>
   <td>Recipes</td>
   <td>
    <a href="https://saftamazalsrecipes.netlify.app/">See website here</a>
