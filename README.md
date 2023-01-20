@@ -22,6 +22,26 @@
 Projects
 --
 <table>
+  <tr>
+  <th>Project name</th>
+  <th>Deployed/Youtube Link</th>
+  <th>Repo Link</th>
+  <th>Languages</th>
+ </tr>
+ <tr>
+  <td>Portfolio</td>
+  <td>
+   <a href="https://stellular-kelpie-612966.netlify.app/">See website here</a>
+  </td>
+  <td>
+    <a href="https://github.com/idaniths/slutprojekt_headelss_cms">See repo here</a>
+  </td>
+  <td>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+   <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/contentful-full-logo" alt="Contentful" width="40" height="40"/>
+   
+  </td>
+ </tr>
  <tr>
   <th>Project name</th>
   <th>Deployed/Youtube Link</th>
