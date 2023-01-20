@@ -38,7 +38,7 @@ Projects
   </td>
   <td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-   <img src=https://www.svgrepo.com/svg/353600/contentful" alt="Contentful" width="40" height="40"/>
+   <img src="https://www.svgrepo.com/svg/353600/contentful" alt="Contentful" width="40" height="40"/>
    
   </td>
  </tr>
