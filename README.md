@@ -18,6 +18,7 @@
 <a href="https://www.gatsbyjs.com/how-it-works/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/docs/manual/tutorial/getting-started/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.contentful.com/platform/" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/contentful-logo-vector.png" alt="Contentful" width="65" height="40"/> </a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQl" width="45" height="45"/> </a>
 </p>
 
 Projects
@@ -41,7 +42,7 @@ Projects
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/>
    <img src="https://logovtor.com/wp-content/uploads/2020/10/contentful-logo-vector.png" alt="Contentful" width="65" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQl" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQl" width="45" height="45"/>
   </td>
  </tr>
  <tr>
