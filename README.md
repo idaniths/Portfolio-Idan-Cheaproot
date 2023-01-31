@@ -40,7 +40,8 @@ Projects
   <td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="Gatsby" width="40" height="40"/>
-   <img src="https://logovtor.com/wp-content/uploads/2020/10/contentful-logo-vector.png" alt="Contentful" width="65" height="40"/
+   <img src="https://logovtor.com/wp-content/uploads/2020/10/contentful-logo-vector.png" alt="Contentful" width="65" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQl" width="40" height="40"/>
   </td>
  </tr>
  <tr>
