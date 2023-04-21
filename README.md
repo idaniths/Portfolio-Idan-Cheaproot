@@ -31,7 +31,7 @@ Projects
   <th>Languages</th>
  </tr>
  <tr>
-  <td>Portfolio</td>
+  <td>Portfolio(WIP)</td>
   <td>
    <a href="https://stellular-kelpie-612966.netlify.app/">See website here</a>
   </td>
